@@ -1,0 +1,39 @@
+_repo: Pillars-of-Society_2296
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Sharp, R. Farquharson (Robert Farquharson)
+    alias: Sharp, Robert Farquharson
+    birthdate: 1864
+    deathdate: 1945
+    gutenberg_agent_id: '862'
+    url: http://www.gutenberg.org/2009/agents/862
+creator:
+  author:
+    agent_name: Ibsen, Henrik
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '861'
+    url: http://www.gutenberg.org/2009/agents/861
+    wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
+description: 'The Pillars of Society (original Norwegian title: Samfundets støtter)
+  is an 1877 play written by Norwegian playwright Henrik Ibsen. Ibsen had great trouble
+  with the writing of this play which came before the series of masterpieces which
+  made him famous throughout the world. The ending is the most criticised feature,
+  since Bernick is clearly guilty of attempted murder but gets off unscathed, but
+  successfully illustrates that the rich and powerful are often selfish and corrupt.--
+  Excerpted from Wikipedia, the free encyclopedia.'
+gutenberg_issued: '2000-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2296'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Norwegian drama -- Translations into English'
+- GITenberg
+title: Pillars of Society
+url: http://www.gutenberg.org/ebooks/2296
