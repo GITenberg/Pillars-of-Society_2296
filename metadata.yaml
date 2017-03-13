@@ -1,5 +1,5 @@
 _repo: Pillars-of-Society_2296
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Sharp, R. Farquharson (Robert Farquharson)
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1945
     gutenberg_agent_id: '862'
     url: http://www.gutenberg.org/2009/agents/862
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ibsen, Henrik
@@ -23,6 +26,8 @@ description: 'The Pillars of Society (original Norwegian title: Samfundets støt
   since Bernick is clearly guilty of attempted murder but gets off unscathed, but
   successfully illustrates that the rich and powerful are often selfish and corrupt.--
   Excerpted from Wikipedia, the free encyclopedia.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2296#Pillars-of-Society
 gutenberg_issued: '2000-08-01'
 gutenberg_type: Text
 identifiers:
